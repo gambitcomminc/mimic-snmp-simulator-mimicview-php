@@ -8,3 +8,4 @@ Features
 
     Control MIMIC SNMP Simulator through Web browser
 
+![screenshot](https://github.com/gambitcomminc/mimic-snmp-simulator-mimicview-php/blob/master/mimicviewphp2.png)
